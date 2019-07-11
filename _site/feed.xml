@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4444/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4444/" rel="alternate" type="text/html" /><updated>2019-07-10T22:29:49+12:00</updated><id>http://localhost:4444/feed.xml</id><entry><title type="html">Here is a poem by Anaïs Nin</title><link href="http://localhost:4444/2019/07/10/a-poem.html" rel="alternate" type="text/html" title="Here is a poem by Anaïs Nin" /><published>2019-07-10T00:00:00+12:00</published><updated>2019-07-10T00:00:00+12:00</updated><id>http://localhost:4444/2019/07/10/a-poem</id><content type="html" xml:base="http://localhost:4444/2019/07/10/a-poem.html">&lt;p&gt;And then the day came,&lt;/p&gt;
-
-&lt;p&gt;when the risk&lt;/p&gt;
-
-&lt;p&gt;to remain tight&lt;/p&gt;
-
-&lt;p&gt;in a bud&lt;/p&gt;
-
-&lt;p&gt;was more painful&lt;/p&gt;
-
-&lt;p&gt;than the risk&lt;/p&gt;
-
-&lt;p&gt;it took&lt;/p&gt;
-
-&lt;p&gt;to Blossom.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Anaïs Nin&lt;/p&gt;</content><author><name>emma</name></author><summary type="html">And then the day came,</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-11T20:49:57+12:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Here is a poem by Anaïs Nin</title><link href="http://localhost:4000/2019/07/10/a-poem.html" rel="alternate" type="text/html" title="Here is a poem by Anaïs Nin" /><published>2019-07-10T00:00:00+12:00</published><updated>2019-07-10T00:00:00+12:00</updated><id>http://localhost:4000/2019/07/10/a-poem</id><content type="html" xml:base="http://localhost:4000/2019/07/10/a-poem.html">&lt;p&gt;And then the day came,&lt;br /&gt;
+when the risk&lt;br /&gt;
+to remain tight&lt;br /&gt;
+in a bud&lt;br /&gt;
+was more painful&lt;br /&gt;
+than the risk&lt;br /&gt;
+it took&lt;br /&gt;
+to Blossom.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Author:&lt;/strong&gt; Anaïs Nin&lt;/p&gt;</content><author><name>emma</name></author><summary type="html">And then the day came, when the risk to remain tight in a bud was more painful than the risk it took to Blossom. Author: Anaïs Nin</summary></entry></feed>

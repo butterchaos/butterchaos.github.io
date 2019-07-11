@@ -1,5 +1,62 @@
 .current {
-  color: green; }
+  color: black; }
 
 body {
-  font-family: 'Quicksand', sans-serif; }
+  margin: 60px auto;
+  width: 70%;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #fefefa; }
+
+nav ul, footer ul {
+  padding: 0;
+  list-style: none;
+  font-weight: bold; }
+
+nav ul li, footer ul li {
+  display: inline;
+  margin-right: 20px; }
+
+nav ul li a {
+  padding: 0 0 0 5px; }
+
+nav ul li:last-child a {
+  padding-right: 5px; }
+
+a {
+  color: #2e2c2c;
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: underline; }
+
+nav a {
+  background: linear-gradient(to bottom, #ff9800 50%, #ff9800 100%);
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 2px 2px;
+  color: #000;
+  text-decoration: none;
+  transition: background-size .2s; }
+
+nav a:hover {
+  background-size: 4px 50px;
+  text-decoration: none; }
+
+h1 {
+  font-size: 2em; }
+
+p {
+  font-size: 1em;
+  line-height: 1.2em;
+  color: #333; }
+
+footer {
+  border-top: 1px solid #d5d5d5;
+  font-size: .8em; }
+
+ul.posts {
+  margin: 20px auto 40px;
+  font-size: 1.5em; }
+
+ul.posts li {
+  list-style: none; }
