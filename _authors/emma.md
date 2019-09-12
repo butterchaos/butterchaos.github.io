@@ -1,7 +1,7 @@
 ---
 name: Emma Campbell
 short_name: emma
-position: Developer
+position: Web Developer
 ---
 
-This is my first time using Jekyll!
+I'm curious about static sites so this is my first time using Jekyll.
